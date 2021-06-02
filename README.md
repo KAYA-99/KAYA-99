@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="33" height="33"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="33" height="33"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="33" height="33"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seleniumwithpython/seleniumwithpython-original.svg" alt="seleniumwithpython" width="33" height="33"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="33" height="33"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/>
