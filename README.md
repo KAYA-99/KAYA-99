@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white%22%3E"></img>
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=61DAFB"></img>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=61DAFB"></img>
+<img src="https://img.shields.io/badge/Nodejs-black?style=for-the-badge&logo=nodejs&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 
   
